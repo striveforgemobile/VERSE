@@ -1,4 +1,4 @@
-<string-array name="quotes_contri">
+<quotes>
     <item>John 3:16 - For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life</item>
     <item>Philippians 4:13 - I can do all this through him who gives me strength</item>
     <item>Psalm 23:1 - The Lord is my shepherd, I lack nothing</item>
@@ -30,4 +30,4 @@
     <item> They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint</item>
     <item>Colossians 3:23 - Whatever you do, work at it with all your heart, as working for the Lord, not for human masters</item>
     <item>James 1:5 - If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you</item>
-</string-array>	
+</quotes>	
